@@ -1,7 +1,7 @@
 import subprocess, os, re, time, shutil
 from script_1 import *
 
-watch_path = "/Users/ingest1/Movies/TEMP/HDR/Script_IN/"
+watch_path = "/FILE/PATH/HERE/Script_IN/"
 
 print("Watching folder...")
 while True:
